@@ -2,3 +2,7 @@ h2{
 
     color: blueviolet;
 }
+img{
+    width: 150px;
+    border: 2px solid brown;
+}
